@@ -13,4 +13,4 @@ See requirements.txt for the complete list.
     - Instructions found here: https://developers.intercom.com/building-apps/docs/authentication-types#section-access-tokens
 2. Rename the file 'user_data_copy.json' to 'user_data.json'.
 3. Add your API token and set the number of articles required. (Intercom default is 25)
-4. cd into the 'src' folder and run 'python3 export.py'. A csv file called 'aticles.csv' will be generated containing the data.
+4. cd into the 'src' folder and run 'python3 export.py'. A csv file called 'articles.csv' will be generated containing the data.
