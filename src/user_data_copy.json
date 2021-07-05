@@ -1,0 +1,4 @@
+{
+    "token": "", // Enter your API token here
+    "article_count": 25 // Set how many articles you want returned
+}
